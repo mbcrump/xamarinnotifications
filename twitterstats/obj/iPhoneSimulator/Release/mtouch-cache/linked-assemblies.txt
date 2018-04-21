@@ -1,0 +1,7 @@
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.app:/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/mtouch-cache/Link/twitterstats.exe
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.app:/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/mtouch-cache/Link/mscorlib.dll
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.app:/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.app:/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.dll
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.app:/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/mtouch-cache/Link/Mono.Security.dll
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.app:/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Xml.dll
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.app:/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Core.dll

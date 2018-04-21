@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twitterstats", "twitterstats\twitterstats.csproj", "{E58472A5-E77A-469C-890E-695799DD4F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58472A5-E77A-469C-890E-695799DD4F98}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E58472A5-E77A-469C-890E-695799DD4F98}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E58472A5-E77A-469C-890E-695799DD4F98}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E58472A5-E77A-469C-890E-695799DD4F98}.Release|iPhone.Build.0 = Release|iPhone
+		{E58472A5-E77A-469C-890E-695799DD4F98}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E58472A5-E77A-469C-890E-695799DD4F98}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E58472A5-E77A-469C-890E-695799DD4F98}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E58472A5-E77A-469C-890E-695799DD4F98}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
+EndGlobal

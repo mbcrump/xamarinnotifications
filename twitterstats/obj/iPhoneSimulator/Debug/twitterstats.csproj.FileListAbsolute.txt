@@ -1,0 +1,11 @@
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Debug/twitterstats.exe
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Debug/twitterstats.pdb
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/twitterstats.csproj.CoreCompileInputs.cache
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/twitterstats.exe
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Debug/twitterstats.pdb

@@ -1,0 +1,11 @@
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.exe
+/Users/mbcrump/Projects/twitterstats/twitterstats/bin/iPhoneSimulator/Release/twitterstats.pdb
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/optimized/
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/twitterstats.csproj.CoreCompileInputs.cache
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/twitterstats.exe
+/Users/mbcrump/Projects/twitterstats/twitterstats/obj/iPhoneSimulator/Release/twitterstats.pdb
